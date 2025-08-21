@@ -1,0 +1,13 @@
+POST http://localhost/ProzNoite/backend/api_noite.php
+Content-Content-Type: application/json
+
+{
+  "nome": "sadsadsa",
+  "email": "joao.tor44@exaaweawemprffrle.m",
+  "senha":"senha123",
+  "telefone":"777777777",
+  "endereco": "Rua A,123",
+  "estado": "SP",
+  "data_nascimento": "1990-01-01"
+
+}
