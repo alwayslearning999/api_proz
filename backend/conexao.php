@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "aluno";
+$pass = "";
 $db = "sistema_api";
 
 $conn = new mysqli($host,$user,$pass,$db);
